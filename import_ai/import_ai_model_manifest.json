@@ -1,7 +1,7 @@
 {
     "download_url":  "https://raw.githubusercontent.com/eYasarbas/OffWordsPolicy/main/import_ai/lemma_small_tr_en_v1.onnx",
-    "size_bytes":  121,
-    "sha256":  "c275b584320f7f802c949bf2d14254d1ea1590518a4ed5b108243a9ca1dce521",
+    "size_bytes":  90387606,
+    "sha256":  "759c3cd2b7fe7e93933ad23c4c9181b7396442a2ed746ec7c1d46192c469c46e",
     "model_id":  "lemma_small_tr_en",
     "version":  "1.0.0"
 }
