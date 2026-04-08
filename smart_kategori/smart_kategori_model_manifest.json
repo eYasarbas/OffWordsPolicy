@@ -1,7 +1,7 @@
 {
-  "download_url": "https://raw.githubusercontent.com/eYasarbas/OffWordsPolicy/main/smart_kategori/smart_kategori_model.onnx",
-  "size_bytes": 0,
-  "sha256": "CHANGE_ME_SHA256",
+  "download_url": "https://raw.githubusercontent.com/eYasarbas/OffWordsPolicy/main/import_ai/lemma_small_tr_en_v1.onnx",
+  "size_bytes": 90387606,
+  "sha256": "759c3cd2b7fe7e93933ad23c4c9181b7396442a2ed746ec7c1d46192c469c46e",
   "model_id": "smart_kategori",
   "version": "1.0.0"
 }
