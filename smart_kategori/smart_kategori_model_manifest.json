@@ -1,5 +1,6 @@
 {
   "download_url": "https://raw.githubusercontent.com/eYasarbas/OffWordsPolicy/main/import_ai/lemma_small_tr_en_v1.onnx",
+  "tokenizer_url": "https://raw.githubusercontent.com/eYasarbas/OffWordsPolicy/main/import_ai/lemma_small_tr_en_v1_tokenizer.json",
   "size_bytes": 90387606,
   "sha256": "759c3cd2b7fe7e93933ad23c4c9181b7396442a2ed746ec7c1d46192c469c46e",
   "model_id": "smart_kategori",
