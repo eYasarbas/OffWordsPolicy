@@ -1,0 +1,15 @@
+{
+  "repo_id": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+  "role": "quality_ceiling_nli_candidate",
+  "downloaded_files": [
+    "README.md",
+    "LICENSE",
+    "config.json",
+    "onnx/model_quantized.onnx",
+    "tokenizer.json",
+    "spm.model",
+    "tokenizer_config.json",
+    "special_tokens_map.json",
+    "added_tokens.json"
+  ]
+}

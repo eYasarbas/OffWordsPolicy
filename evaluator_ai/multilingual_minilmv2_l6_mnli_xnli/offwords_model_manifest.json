@@ -1,0 +1,14 @@
+{
+  "repo_id": "MoritzLaurer/multilingual-MiniLMv2-L6-mnli-xnli",
+  "role": "primary_nli_candidate",
+  "downloaded_patterns": [
+    "README.md",
+    "config.json",
+    "onnx/config.json",
+    "onnx/model.onnx",
+    "onnx/tokenizer.json",
+    "onnx/sentencepiece.bpe.model",
+    "onnx/special_tokens_map.json",
+    "onnx/tokenizer_config.json"
+  ]
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "repo": "MoritzLaurer/multilingual-MiniLMv2-L6-mnli-xnli",
+    "status": "ok",
+    "role": "primary_nli_candidate",
+    "dir": "C:\\Users\\Enes\\Documents\\MyProjects\\Flutter\\OffWordsPolicy\\evaluator_ai\\multilingual_minilmv2_l6_mnli_xnli"
+  },
+  {
+    "repo": "intfloat/multilingual-e5-small",
+    "status": "ok",
+    "role": "embedding_candidate",
+    "dir": "C:\\Users\\Enes\\Documents\\MyProjects\\Flutter\\OffWordsPolicy\\evaluator_ai\\multilingual_e5_small"
+  },
+  {
+    "repo": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "status": "ok",
+    "role": "embedding_candidate",
+    "dir": "C:\\Users\\Enes\\Documents\\MyProjects\\Flutter\\OffWordsPolicy\\evaluator_ai\\paraphrase_multilingual_minilm_l12_v2"
+  },
+  {
+    "repo": "google/embeddinggemma-300m",
+    "status": "blocked_gated_repo",
+    "role": "mobile_embedding_candidate",
+    "dir": "C:\\Users\\Enes\\Documents\\MyProjects\\Flutter\\OffWordsPolicy\\evaluator_ai\\embeddinggemma_300m",
+    "note": "Requires Hugging Face authentication and access approval."
+  },
+  {
+    "repo": "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7",
+    "status": "ok",
+    "role": "quality_ceiling_nli_candidate",
+    "dir": "C:\\Users\\Enes\\Documents\\MyProjects\\Flutter\\OffWordsPolicy\\evaluator_ai\\mdeberta_v3_base_xnli_multilingual_nli_2mil7"
+  }
+]

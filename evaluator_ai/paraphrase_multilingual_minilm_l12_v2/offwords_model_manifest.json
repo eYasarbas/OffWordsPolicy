@@ -1,0 +1,18 @@
+{
+  "repo_id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "role": "embedding_candidate",
+  "downloaded_patterns": [
+    "README.md",
+    "config.json",
+    "modules.json",
+    "sentence_bert_config.json",
+    "config_sentence_transformers.json",
+    "1_Pooling/config.json",
+    "onnx/model_qint8_arm64.onnx",
+    "sentencepiece.bpe.model",
+    "special_tokens_map.json",
+    "tokenizer.json",
+    "tokenizer_config.json",
+    "unigram.json"
+  ]
+}
