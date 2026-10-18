@@ -1,14 +1,122 @@
-Privacy Policy
+OffWords Privacy Policy / Gizlilik Politikası
 
-This application is developed as a free educational app and is provided at no cost.
-This app does not collect, store, or share any personally identifiable information.
+Last updated / Son güncelleme: 2026-10-18
 
-The app may collect limited non-personal data such as anonymous usage statistics
-and crash reports through standard Android system services, solely to improve
-app performance and user experience.
+English
+=======
 
-No user accounts are required. The app does not request or access sensitive
-permissions and does not share data with third parties.
+OffWords is a free vocabulary app. This page explains what the app keeps,
+where, and how you can remove it.
 
-If you have any questions about this Privacy Policy, you may contact the developer
-via the email address provided on the Google Play Store listing.
+1. Using the app without an account
+You can study as a guest. Your decks, cards and learning progress are then
+stored only on your phone.
+
+2. Account (optional)
+If you sign in with Google or email, the sign-in is handled by Firebase
+Authentication (Google). We receive your account id, email address and the
+name and photo you choose for your profile.
+
+3. Cloud backup
+While you are signed in, your decks, card progress, streak and settings are
+backed up to Cloud Firestore (Google Firebase) so they can be restored on
+another phone. Deleting your account deletes this backup.
+
+4. Anonymous deck statistics
+By default the app contributes numbers only (for example how many people
+studied a shared deck) without any identity. You can turn this off in
+Settings. Study groups with friends are always opt-in; a group shows the
+nickname and weekly numbers you choose to share.
+
+5. Usage statistics and crash reports
+The app uses Firebase Analytics and Firebase Crashlytics to count feature
+use and to receive crash reports. They do not contain the words or
+sentences you write.
+
+6. Notifications
+Study reminders are local notifications. The app asks for the notification
+permission only when you turn a reminder on; you can turn it off at any
+time in Settings or in Android settings.
+
+7. "AI Learn" and the meaning model
+The sentences you write in AI Learn are checked on your phone. They never
+leave the phone. They are deleted when you delete your account.
+AI Learn can optionally download a meaning model (about 450 MB) from
+GitHub (raw.githubusercontent.com), with Hugging Face (huggingface.co) as a
+backup. The download only fetches the model files; nothing you wrote is
+sent. You can delete the model in Settings.
+
+8. Text recognition and speech
+Reading words from a photo (Google ML Kit text recognition) and reading
+words aloud (the phone's text-to-speech) run on your phone.
+
+9. Deleting your data
+You can delete your account in the app (Settings > Account). This deletes
+your account, its cloud backup and its share codes. On the phone you can
+keep your progress as a guest or delete it as well.
+
+10. Third parties
+We do not sell your data. Data is processed only by the Google Firebase
+services named above, for the purposes above.
+
+Contact: the developer's email address on the Google Play Store listing.
+
+
+Türkçe
+======
+
+OffWords ücretsiz bir kelime uygulamasıdır. Bu sayfa uygulamanın neyi,
+nerede tuttuğunu ve nasıl silebileceğini anlatır.
+
+1. Hesapsız kullanım
+Misafir olarak çalışabilirsin. Destelerin, kartların ve ilerlemen yalnızca
+telefonunda tutulur.
+
+2. Hesap (isteğe bağlı)
+Google ya da e-posta ile giriş yaparsan giriş Firebase Authentication
+(Google) ile yapılır. Hesap kimliğin, e-posta adresin ve profilinde
+seçtiğin ad ile fotoğraf bize ulaşır.
+
+3. Bulut yedeği
+Giriş yapmışken destelerin, kart ilerlemen, serin ve ayarların başka bir
+telefonda geri gelebilmesi için Cloud Firestore'a (Google Firebase)
+yedeklenir. Hesabını silince bu yedek de silinir.
+
+4. Anonim deste istatistikleri
+Varsayılan olarak uygulama kimlik içermeyen sayılar gönderir (örneğin
+paylaşılan bir desteyi kaç kişinin çalıştığı). Ayarlar'dan kapatabilirsin.
+Arkadaş grupları her zaman isteğe bağlıdır; grup yalnızca paylaşmayı
+seçtiğin takma adı ve haftalık sayıları gösterir.
+
+5. Kullanım istatistikleri ve hata raporları
+Uygulama özellik kullanımını saymak ve çökme raporu almak için Firebase
+Analytics ve Firebase Crashlytics kullanır. Bunlar yazdığın kelime ve
+cümleleri içermez.
+
+6. Bildirimler
+Çalışma hatırlatmaları telefonda kurulan bildirimlerdir. Bildirim iznini
+yalnızca bir hatırlatmayı açtığında ister; Ayarlar'dan ya da Android
+ayarlarından istediğin zaman kapatabilirsin.
+
+7. "AI ile Öğren" ve anlam modeli
+AI ile Öğren'de yazdığın cümleler telefonunda kontrol edilir ve cihazdan
+çıkmaz. Hesabını silince silinir.
+AI ile Öğren isteğe bağlı olarak yaklaşık 450 MB'lık bir anlam modelini
+GitHub'dan (raw.githubusercontent.com), yedek kaynak olarak Hugging
+Face'ten (huggingface.co) indirebilir. İndirme yalnızca model dosyalarını
+alır; yazdığın hiçbir şey gönderilmez. Modeli Ayarlar'dan silebilirsin.
+
+8. Metin tanıma ve sesli okuma
+Fotoğraftan kelime okuma (Google ML Kit metin tanıma) ve kelimeleri sesli
+okuma (telefonun metin okuma özelliği) telefonunda çalışır.
+
+9. Verilerini silmek
+Hesabını uygulamadan silebilirsin (Ayarlar > Hesap). Bu, hesabını, bulut
+yedeğini ve paylaşım kodlarını siler. Telefonundaki ilerlemeni misafir
+olarak tutabilir ya da onu da silebilirsin.
+
+10. Üçüncü taraflar
+Verilerini satmayız. Veriler yalnızca yukarıda adı geçen Google Firebase
+hizmetlerinde, yukarıdaki amaçlarla işlenir.
+
+İletişim: Google Play mağaza sayfasındaki geliştirici e-posta adresi.
