@@ -1,6 +1,6 @@
 OffWords Privacy Policy / Gizlilik Politikası
 
-Last updated / Son güncelleme: 2026-10-18
+Last updated / Son güncelleme: 2026-10-22
 
 English
 =======
@@ -15,7 +15,7 @@ stored only on your phone.
 2. Account (optional)
 If you sign in with Google or email, the sign-in is handled by Firebase
 Authentication (Google). We receive your account id, email address and the
-name and photo you choose for your profile.
+name and avatar emoji you choose for your profile.
 
 3. Cloud backup
 While you are signed in, your decks, card progress, streak and settings are
@@ -46,18 +46,33 @@ GitHub (raw.githubusercontent.com), with Hugging Face (huggingface.co) as a
 backup. The download only fetches the model files; nothing you wrote is
 sent. You can delete the model in Settings.
 
-8. Text recognition and speech
+8. Translations and example sentences
+When you add a card with automatic translation on, the word you type is sent
+to Google Translate for its meaning, and to Wiktionary (Wikimedia
+Foundation) for an example sentence, which Google Translate then translates.
+Only the word or sentence is sent, never your account. You can turn
+automatic translation off in Settings. Smart Add translates the words it
+finds the same way.
+
+9. Text recognition and speech
 Reading words from a photo (Google ML Kit text recognition) and reading
 words aloud (the phone's text-to-speech) run on your phone.
 
-9. Deleting your data
+10. Shared decks and feedback
+If you share a deck, a copy of its cards can be opened by anyone who has the
+code, until you stop sharing or delete the deck. Feedback you send from
+Settings is stored with your account id (or anonymously as a guest) and, if
+you add one, a contact email; signed-in users can delete their feedback in
+Settings.
+
+11. Deleting your data
 You can delete your account in the app (Settings > Account). This deletes
 your account, its cloud backup and its share codes. On the phone you can
 keep your progress as a guest or delete it as well.
 
-10. Third parties
-We do not sell your data. Data is processed only by the Google Firebase
-services named above, for the purposes above.
+12. Third parties
+We do not sell your data. Data is processed only by the services named
+above (Google Firebase, Google Translate, Wikimedia), for the purposes above.
 
 Contact: the developer's email address on the Google Play Store listing.
 
@@ -75,7 +90,7 @@ telefonunda tutulur.
 2. Hesap (isteğe bağlı)
 Google ya da e-posta ile giriş yaparsan giriş Firebase Authentication
 (Google) ile yapılır. Hesap kimliğin, e-posta adresin ve profilinde
-seçtiğin ad ile fotoğraf bize ulaşır.
+seçtiğin ad ile avatar emojisi bize ulaşır.
 
 3. Bulut yedeği
 Giriş yapmışken destelerin, kart ilerlemen, serin ve ayarların başka bir
@@ -106,17 +121,31 @@ GitHub'dan (raw.githubusercontent.com), yedek kaynak olarak Hugging
 Face'ten (huggingface.co) indirebilir. İndirme yalnızca model dosyalarını
 alır; yazdığın hiçbir şey gönderilmez. Modeli Ayarlar'dan silebilirsin.
 
-8. Metin tanıma ve sesli okuma
+8. Çeviri ve örnek cümleler
+Otomatik çeviri açıkken kart eklediğinde yazdığın kelime, anlamı için Google
+Çeviri'ye; örnek cümle için Vikisözlük'e (Wikimedia Vakfı) gönderilir,
+örnek cümle de Google Çeviri ile çevrilir. Yalnızca kelime ya da cümle
+gönderilir, hesabın gönderilmez. Otomatik çeviriyi Ayarlar'dan
+kapatabilirsin. Akıllı Ekle bulduğu kelimeleri aynı şekilde çevirir.
+
+9. Metin tanıma ve sesli okuma
 Fotoğraftan kelime okuma (Google ML Kit metin tanıma) ve kelimeleri sesli
 okuma (telefonun metin okuma özelliği) telefonunda çalışır.
 
-9. Verilerini silmek
+10. Paylaşılan desteler ve geri bildirim
+Bir desteyi paylaşırsan kartlarının bir kopyası, paylaşımı durdurana ya da
+desteyi silene kadar kodu bilen herkes tarafından açılabilir. Ayarlar'dan
+gönderdiğin geri bildirim hesap kimliğinle (misafirken kimliksiz) ve
+eklersen iletişim e-postanla saklanır; hesaplı kullanıcılar geri
+bildirimlerini Ayarlar'dan silebilir.
+
+11. Verilerini silmek
 Hesabını uygulamadan silebilirsin (Ayarlar > Hesap). Bu, hesabını, bulut
 yedeğini ve paylaşım kodlarını siler. Telefonundaki ilerlemeni misafir
 olarak tutabilir ya da onu da silebilirsin.
 
-10. Üçüncü taraflar
-Verilerini satmayız. Veriler yalnızca yukarıda adı geçen Google Firebase
-hizmetlerinde, yukarıdaki amaçlarla işlenir.
+12. Üçüncü taraflar
+Verilerini satmayız. Veriler yalnızca yukarıda adı geçen hizmetlerde
+(Google Firebase, Google Çeviri, Wikimedia), yukarıdaki amaçlarla işlenir.
 
 İletişim: Google Play mağaza sayfasındaki geliştirici e-posta adresi.
