@@ -1,6 +1,6 @@
 OffWords Privacy Policy / Gizlilik Politikası
 
-Last updated / Son güncelleme: 2026-10-22
+Last updated / Son güncelleme: 2026-10-24
 
 English
 =======
@@ -32,6 +32,13 @@ nickname and weekly numbers you choose to share.
 The app uses Firebase Analytics and Firebase Crashlytics to count feature
 use and to receive crash reports. They do not contain the words or
 sentences you write.
+Usage statistics are on by default. You can turn them off in Settings >
+Other ("Share usage statistics"); this stops Firebase Analytics for the
+whole app. Crash reports are separate. In AI Learn, what you write never
+leaves your phone: only fixed values are sent, such as whether an answer
+was right, wrong or unclear, the type of mistake, whether the on-device
+model is on, counts for the session and which ready-made deck was used
+(your own decks are sent only as "own").
 
 6. Notifications
 Study reminders are local notifications. The app asks for the notification
@@ -107,6 +114,13 @@ seçtiğin takma adı ve haftalık sayıları gösterir.
 Uygulama özellik kullanımını saymak ve çökme raporu almak için Firebase
 Analytics ve Firebase Crashlytics kullanır. Bunlar yazdığın kelime ve
 cümleleri içermez.
+Kullanım istatistikleri varsayılan olarak açıktır. Ayarlar > Diğer'deki
+"Kullanım istatistiklerini paylaş" anahtarıyla kapatabilirsin; kapatınca
+Firebase Analytics tüm uygulamada durur. Hata raporları ayrıdır. AI ile
+Öğren'de yazdıkların cihazından çıkmaz: yalnız sabit değerler gönderilir;
+örneğin cevabın doğru, yanlış ya da belirsiz olduğu, hata türü, cihazdaki
+modelin açık olup olmadığı, oturumdaki sayılar ve hangi hazır destenin
+kullanıldığı (kendi destelerin yalnız "kendi" olarak gönderilir).
 
 6. Bildirimler
 Çalışma hatırlatmaları telefonda kurulan bildirimlerdir. Bildirim iznini
